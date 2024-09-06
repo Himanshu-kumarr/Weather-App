@@ -1,1 +1,6 @@
-# Weather-App
+## Weather App 
+Building this app for fun!!! 🖥️ (●'◡'●)
+
+
+
+

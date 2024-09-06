@@ -177,7 +177,7 @@ export default function Home() {
               <small className="text-gray-100">
                 Developed by{" "}
                 <a href="https://mahfuzur01.netlify.app/" target="_blank" className="text-sm font-light text-amber-700 bg-white p-1 rounded-md">
-                  Mahfuzur Rahman
+                  Himanshu Kumar
                 </a>
               </small>
             </div>
